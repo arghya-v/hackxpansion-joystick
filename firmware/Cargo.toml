@@ -1,8 +1,9 @@
 [package]
-name = "firmware"
+name = "JoystickHackx"
 version = "0.1.0"
 edition = "2024"
-
+description = "Joystick driver for hackxpansion!"
+license = "MIT"
 [dependencies]
 xpanse-api = "0.2.3"
 embassy-rp = "0.10.0"
