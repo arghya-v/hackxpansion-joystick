@@ -5,8 +5,8 @@ The module uses a two-axis potentiometer joystick to provide X and Y analog read
 <br/>
 **Crates:** pkg:cargo/JoystickHackx@0.1.0
 # Images
-![case](https://cdn.hackclub.com/01a0e3a9-230c-7f25-a3b6-166c52b7dd30/image.png)
-![pcb](https://cdn.hackclub.com/01a0de11-4681-7c4f-a998-47afab4f1d09/image.png)
+![case](https://cdn.hackclub.com/01a150d1-1473-71f5-b25c-7e533d8916d7/image.png)
+![pcb](https://cdn.hackclub.com/01a150d1-166e-720b-bb36-8075e93c21c9/image.png)
 ![schematic](https://cdn.hackclub.com/01a0de11-f6c5-7536-852f-4c2892e97569/image.png)
 
 
